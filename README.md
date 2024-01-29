@@ -1,2 +1,1 @@
-# dados
-Repositório para o meu portfólio em dados
+# Projeto: Da extração ao Machine Learning
